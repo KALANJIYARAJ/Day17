@@ -1,0 +1,13 @@
+
+.col-md{
+    display:flex;
+    margin: 50px 10px;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 50px;
+    margin: 500px 10px;
+    /* padding: 10px 0px; */
+}
+   
